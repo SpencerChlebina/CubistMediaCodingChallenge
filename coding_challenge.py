@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-evilList = "1 2 2 2 3 5 10"
-goodList = "1 2 3 3 4 10"
 
 def goodVevil(evilCount, goodCount):
     
